@@ -1,0 +1,13 @@
+name: One
+version: 0.1.0
+description: One page theme base template
+icon: rebel
+author:
+  name: Teal and Sarah
+  email: sera.baghdadi@gmail.com
+homepage: https://github.com/teal-and-sarah/grav-theme-one
+demo: http://demo.yoursite.com
+keywords: grav, theme, etc
+bugs: https://github.com/teal-and-sarah/grav-theme-one/issues
+readme: https://github.com/teal-and-sarah/grav-theme-one/blob/develop/README.md
+license: MIT
